@@ -1,0 +1,3 @@
+python_telegram_bot
+matplotlib
+antlr4-python3-runtime
